@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+#title{
+    font-size: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#meme-form{
+    font-size: 20px;
+}
+.meme{
+    position: relative;
+}
+.top{
+    position: absolute;
+    top: 10%;
+    right: 80%;
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.bottom{
+    position: absolute;
+    top: 70%;
+    right: 85%;
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
